@@ -11,6 +11,7 @@ config_version=5
 [application]
 
 config/name="brackey's game jam test"
+run/main_scene="uid://b18eh4plewd0i"
 config/features=PackedStringArray("4.4", "Mobile")
 config/icon="res://icon.svg"
 
